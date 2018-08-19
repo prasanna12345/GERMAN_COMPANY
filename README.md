@@ -1,0 +1,2 @@
+# GERMAN_COMPANY
+GC
